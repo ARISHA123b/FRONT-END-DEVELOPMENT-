@@ -1,0 +1,22 @@
+img{
+  height: 100pt;
+  width: 100pt;
+}
+*{
+  font-weight: normal;
+}
+#red{
+ color:red; 
+}
+#blue
+{
+  color:blue; 
+ }
+ #orange{
+  color: orangered;
+ }
+ #green
+ {color: green;}
+ #yellow{
+  color: yellow;
+ }
